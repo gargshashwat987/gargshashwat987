@@ -1,7 +1,7 @@
 - 👋 Hi, I’m SHASHWAT GARG or @gargshashwat987
 - 👀 I’m interested in Software development, Web development, Web designing and  Data Analysis. 
 - 🌱 I’m currently learning MERN Stack. 
-- 💞️ I’m looking to collaborate on open source projects. 
+- 💞️ I’m looking to collaborate in open source projects. 
 - 📫 How to reach me : gargshashwat987@gmail.com
 
 <!---
